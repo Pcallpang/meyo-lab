@@ -223,7 +223,8 @@ export type WaveLink = {
 export const waveLinks: WaveLink[] = [
   { id: "dorms-activity", label: "도름스 커뮤니티 나의 활동", href: "https://dorms.school/channels/3fad9324-3dee-49ae-8b5c-0a6686d85add" },
   { id: "miyotoon", label: "미요툰 인스타그램", href: "https://www.instagram.com/me_yotoon" },
-  { id: "miyoapp", label: "미요앱 인스타그램", href: "https://www.instagram.com/me_yoapp/" }
+  { id: "miyoapp", label: "미요앱 인스타그램", href: "https://www.instagram.com/me_yoapp/" },
+  { id: "hamssaem-studio", label: "함쌤 작업실", href: "https://progh2.github.io/mini-homepage/" }
 ];
 
 /* 미니홈피 BGM 입니다. 유튜브 영상을 음원으로 씁니다.
