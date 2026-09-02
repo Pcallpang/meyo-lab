@@ -227,7 +227,8 @@ export const waveLinks: WaveLink[] = [
   { id: "hamssaem-studio", label: "함쌤 작업실", href: "https://progh2.github.io/mini-homepage/" },
   { id: "n-lifescience", label: "N의 생명과학", href: "https://n-lifescience.github.io/mini-homepage/" },
   { id: "gireokjoyulsa", label: "기록조율사의 미니홈피", href: "https://ygywam.github.io/mini-homepage/" },
-  { id: "airing-lab", label: "아이링쌤의 데이터실험실", href: "https://irenechey820712-star.github.io/mini-homepage/" }
+  { id: "airing-lab", label: "아이링쌤의 데이터실험실", href: "https://irenechey820712-star.github.io/mini-homepage/" },
+  { id: "sugangt-studio", label: "쑤캥T 작업실", href: "https://sungandi86-max.github.io/sungandi-mini-homepage/" }
 ];
 
 /* 미니홈피 BGM 입니다. 유튜브 영상을 음원으로 씁니다.
